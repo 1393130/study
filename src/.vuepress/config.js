@@ -25,7 +25,7 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    repo: 'jasonandjay/study',
+    repo: '107yu/study',
 
     docsDir: 'src',
     editLinks: true,
@@ -33,24 +33,24 @@ module.exports = {
     locales: {
       '/': {
         label: '简体中文',
-        repo: 'jasonandjay/study',
+        repo: '107yu/study',
       
         selectText: '选择语言',
         editLinkText: '帮助我们改进内容',
         lastUpdated: '上次更新',
         nav: [
-          {
-            text: '快速搭建开发环境',
-            link: '/zh/standard/Start.md'
-          },
-          {
-            text: '算法',
-            items: [
-              { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
-              { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
-              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
-            ],
-          },
+          // {
+          //   text: '快速搭建开发环境',
+          //   link: '/zh/standard/Start.md'
+          // },
+          // {
+          //   text: '算法',
+          //   items: [
+          //     { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
+          //     { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
+          //     { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
+          //   ],
+          // },
           {
             text: '项目相关',
             items: [
@@ -72,19 +72,19 @@ module.exports = {
               { text: '龙湖地产', link: '/zh/interview/longhu.md'}
             ]
           },
-          {
-            text: '知识点笔记',
-            items: [
-              { text: '在线思维导图', link: '/zh/interface/Mind.md'},
-              { text: 'Vue', link: '/zh/vue/' },
-              { text: 'React', link: '/zh/react/'},
-              { text: '小程序', link: '/zh/miniapp/' },
-              { text: 'Webpack', link: '/zh/webpack/'},
-              { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
-              { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
-              { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
-            ]
-          },
+          // {
+          //   text: '知识点笔记',
+          //   items: [
+          //     { text: '在线思维导图', link: '/zh/interface/Mind.md'},
+          //     { text: 'Vue', link: '/zh/vue/' },
+          //     { text: 'React', link: '/zh/react/'},
+          //     { text: '小程序', link: '/zh/miniapp/' },
+          //     { text: 'Webpack', link: '/zh/webpack/'},
+          //     { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
+          //     { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
+          //     { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
+          //   ]
+          // },
           // {
           //   text: '语言',
           //   items: [

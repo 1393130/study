@@ -5,7 +5,7 @@ actionText: Let`s Go →
 actionLink: /zh/standard/Start.html
 sidebarDepth: 2
 sidebar: auto
-footer: MIT Licensed | Copyright © 1970-present Jasonandjay
+footer: MIT Licensed | Copyright © 2019-present 107yu
 ---
 
 <div style="text-align: center">
