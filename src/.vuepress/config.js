@@ -92,10 +92,10 @@ module.exports = {
           //     { text: 'Japanese', link: '/language/japanese' }
           //   ]
           // },
-          // {
-          //   text: '配置参考',
-          //   link: '/config/'
-          // },
+          {
+            text: '配置参考',
+            link: '/config/'
+          },
           // {
           //   text: '默认主题配置',
           //   link: '/default-theme-config/'
