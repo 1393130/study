@@ -8,7 +8,7 @@ module.exports = {
     '/': {
       lang: 'zh-CN',
       title: '前端知识点总结',
-      description: '任何不能够给你快乐的编程都是耍流氓'
+      description: '纸上得来终觉浅，绝知此事要躬行'
     }
   },
   head: [
