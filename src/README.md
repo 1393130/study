@@ -27,7 +27,7 @@ footer: MIT Licensed | Copyright © 2019-present 107yu
   </div>
 </div>
 
-### 起步就像数 1, 2, 3 一样容易
+### 快速上手
 
 ``` bash
 # 安装
