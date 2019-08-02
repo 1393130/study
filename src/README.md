@@ -2,7 +2,7 @@
 home: true
 heroImage: /user.png
 actionText: Let`s Go →
-actionLink: /zh/standard/Start.html
+actionLink: /zh/interview/index.html
 sidebarDepth: 2
 sidebar: auto
 footer: MIT Licensed | Copyright © 2019-present 107yu
