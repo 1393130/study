@@ -9,7 +9,7 @@ footer: MIT Licensed | Copyright © 1970-present Jasonandjay
 ---
 
 <div style="text-align: center">
-  <Bit/>
+  <!-- <Bit/> -->
 </div>
 
 <div class="features">
