@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /user.png
+heroImage: /logo.png
 actionText: Let`s Go →
 actionLink: /zh/interview/index.html
 sidebarDepth: 2
 sidebar: auto
-footer: MIT Licensed | Copyright © 2019-present 107yu
+footer: MIT Licensed | Copyright © 2019-present 1393130
 ---
 
 <div style="text-align: center">
